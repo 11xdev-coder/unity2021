@@ -1,0 +1,21 @@
+Chapter 1:
+1. Visual Studio used to edit code, Unity is used to execute code
+2. Find (i) button right from component's name
+3. Just search it on Scripting Reference if you dont understand something
+4. When you know exactly how you want to name it
+
+Chapter 2:
+1. To store placeholder data
+2. Methods are blocks of code that runs everytime their name is called. (to avoid repetitions)
+3. Once script is dropped onto the gameobject it becomes a component
+4. Communication among classes
+
+Chapter 3:
+1. accessType variableType name = (optional when assigning) value;
+2. accessType = public
+3. public - accessible everywhere, private - only in that one script, protected - only in this class and derived classes, internal - only in this asssembly
+4. when you risk loosing value
+5. accessType returnType name(parameterType parameterName) { }
+6. method parameters separated my comma
+7. method returns nothing
+8. every frame
