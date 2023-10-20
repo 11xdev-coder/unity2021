@@ -19,3 +19,21 @@ Chapter 3:
 6. method parameters separated my comma
 7. method returns nothing
 8. every frame
+
+Chapter 4:
+Pop quiz 1:
+1. using booleans (true or false)
+2. ! (logical negation)
+3. && (logical AND)
+4. || (logical OR)
+Pop quiz 2:
+1. is a single item
+2. 0
+3. no
+4. list.Add
+
+Chapter 5:
+1. A constructor
+2. By value since structs are value types
+3. create your own classes
+4. GameObject.GetComponent
